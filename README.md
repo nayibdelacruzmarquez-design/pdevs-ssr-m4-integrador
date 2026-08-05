@@ -3,8 +3,7 @@
 * **Autor:** Nayib de la Cruz Márquez
 * **Entorno de Ejecución:** Python 3.12.10
 * **Despliegue PaaS:** [https://pdevs-ssr-m4-integrador.onrender.com](https://pdevs-ssr-m4-integrador.onrender.com)
-* **Video de Defensa:** [PENDIENTE_ENLACE_LOOM_O_YOUTUBE]
-
+* **Video de Defensa:** [Ver Video en Google Drive](https://drive.google.com/drive/folders/1j1lw28lWHji4ChnlmPaOqDly6VtWvA4Y?usp=sharing)
 ---
 
 ## 🚀 Instrucciones para Ejecución Local
